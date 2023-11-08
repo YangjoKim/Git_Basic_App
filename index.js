@@ -9,7 +9,7 @@ function add(n1, n2, n3=10) {
     return n1 + n2;
 }
 
-fucntion minus(n1, n2) {
+function minus(n1, n2) {
     if (n1 > n2) {
         return n1 - n2;
     } else {
